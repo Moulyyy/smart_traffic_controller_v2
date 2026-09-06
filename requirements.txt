@@ -1,0 +1,6 @@
+# Core Python dependencies for SUMO Reinforcement Learning Traffic Signal Optimization
+traci>=1.20.0
+sumolib>=1.20.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+tensorflow>=2.10.0

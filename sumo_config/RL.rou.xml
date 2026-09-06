@@ -1,0 +1,6 @@
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    
+    <vType id="bike" vClass="motorcycle" color="1,1,0" accel="2.6" decel="4.5" sigma="0.5" /><vType id="truck" vClass="truck" color="0,1,0" accel="2.6" decel="4.5" sigma="0.5" /><vType id="bus" vClass="bus" color="0,0,1" accel="2.6" decel="4.5" sigma="0.5" /><vType id="car" vClass="passenger" color="1,0,0" accel="2.6" decel="4.5" sigma="0.5" /><flow id="f_0" begin="0.00" from="-E11" to="Node1_2_WB" via="-E10 Node2_3_WB" end="3600.00" vehsPerHour="1800" />
+    <flow id="f_1" begin="0.00" from="Node2_7_SB" to="E12" via="E11" end="3600.00" vehsPerHour="1800" />
+    <flow id="f_2" begin="0.00" from="Node1_2_EB" to="E11" via="Node2_3_EB E9" end="3600.00" vehsPerHour="1800" />
+</routes>
