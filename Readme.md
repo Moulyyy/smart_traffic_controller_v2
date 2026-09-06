@@ -5,10 +5,7 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-DQN-orange.svg)](https://www.tensorflow.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**Institution:** Indian Institute of Information Technology, Nagpur (IIITN)  
-**Mentor:** Dr. Rashmi Pandhare  
-**Contributors:** Saurabh Kumar • Darshan Tate • Sai Chandra Mouli  
-**Project Presentation:** [docs/Traffic_Signal_Optimization_Presentation.pdf](docs/Traffic_Signal_Optimization_Presentation.pdf)
+
 
 ---
 
