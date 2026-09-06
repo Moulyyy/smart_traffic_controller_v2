@@ -170,8 +170,8 @@ Ensure you have **Eclipse SUMO** installed and available in your environment:
 
 Clone the repository and install required Python packages:
 ```bash
-git clone https://github.com/<your-username>/tracii.git
-cd tracii
+git clone https://github.com/Moulyyy/smart_traffic_controller_v2.git
+cd smart_traffic_controller_v2
 pip install -r requirements.txt
 ```
 
